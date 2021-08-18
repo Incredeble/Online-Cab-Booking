@@ -5,11 +5,9 @@ Future of Online Cab Booking is really two good.
 Today most of the people face problem while travelling through auto, bus due to over crowd . Many places don’t have bus stand or auto stand so peoples face many problems. They have no option other than wait. Some drivers take the advantage of this and charging more money than actuall fare.
 And in toady busy life no one want to wait for a bus , auto for travelling.
 
-<br />
-<br />
+<br /><br />
 
 ![image](https://user-images.githubusercontent.com/65532854/129837156-6b9cd53b-df18-4b40-a2f6-c62684044686.png)
-
 
 <br /><br />
 
@@ -19,13 +17,10 @@ And in toady busy life no one want to wait for a bus , auto for travelling.
 * SQL(Structured Query Language) is used to built this project.
 * PHP
 
-
 <br /><br />
 
 ### ER Diagram ###
 ![image](https://user-images.githubusercontent.com/65532854/129836952-6d355263-351b-481b-bda7-f2623388ed88.png)
-
-
 
 <br /><br />
 
